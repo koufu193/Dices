@@ -17,7 +17,7 @@ public class Main extends Application {
         config.setHeight((int)Configuration.height);
         config.setWidth((int)Configuration.width);
         config.setFullScreen(true);
-        config.setTitle("Dear ImGui あああああああ");
+        config.setTitle("");
     }
 
     @Override
